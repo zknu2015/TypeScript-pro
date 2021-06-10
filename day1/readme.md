@@ -1,0 +1,10 @@
+- 基本类型
+- 字符串
+`let char:string='char'`
+- 数字类型
+- 布尔类型
+- 数组类型
+- 元组类型
+- 枚举类型
+- null和undefined
+- any
